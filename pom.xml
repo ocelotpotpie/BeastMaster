@@ -41,13 +41,18 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.15.2-R0.1-SNAPSHOT</version>
+            <version>1.16.4</version>
         </dependency>
         <dependency>
             <groupId>com.sk89q.worldedit</groupId>
             <artifactId>worldedit-bukkit</artifactId>
             <version>7.0.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+        	<groupId>com.sk89q.worldguard</groupId>
+        	<artifactId>worldguard-bukkit</artifactId>
+        	<version>7.0.4</version>
+    	</dependency>
         <dependency>
             <groupId>net.sothatsit</groupId>
             <artifactId>blockstore</artifactId>
@@ -61,7 +66,7 @@
         <dependency>
             <groupId>LibsDisguises</groupId>
             <artifactId>LibsDisguises</artifactId>
-            <version>10.0.0-SNAPSHOT</version>
+            <version>10.0.20-Free</version>
         </dependency>
     </dependencies>
     <build>
